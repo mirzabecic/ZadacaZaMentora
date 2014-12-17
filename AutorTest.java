@@ -10,5 +10,4 @@ public class AutorTest {
 		System.out.println(mirza);
 		//System.out.println(mirza.getIme());
 	}
-
 }
